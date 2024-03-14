@@ -16,7 +16,7 @@
 
 ## 🤓 Мой стек:
 
-<div>
+<div id="state" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
@@ -38,7 +38,7 @@
 
 ## 📟 Мои контакты:
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/golovinaAG">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
   </a>
