@@ -25,7 +25,7 @@
   <img src="icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
+  <img src="[icons/chrome/chrome-original.svg](https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg)" title="Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
   <img src="icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
 </div>
 
