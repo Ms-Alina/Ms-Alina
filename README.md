@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <h1>Привет всем, меня зовут Алина! 👋</h1>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJ1ajBieWp6MTF1OGU0OWR0aWY3cThuY292ZjdvaGttN3Exc3I0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif" width="100" /> 
+</div>
+
+
+
 ### Hi there 👋
 
 <!--
