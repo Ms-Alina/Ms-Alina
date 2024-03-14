@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Alina)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Alina&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Alina&layout=donut)
 
 
 ### Hi there 👋
