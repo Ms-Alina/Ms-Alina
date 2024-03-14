@@ -42,7 +42,7 @@
   <a href="https://t.me/golovinaAG">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
   </a>
-  <a href="alinadd@mail.ru">
+  <a href="mailto:alinadd@mail.ru">
     <img src="https://img.shields.io/badge/email-005FF9?logo=mail.ru&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </div>
