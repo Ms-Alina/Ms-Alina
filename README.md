@@ -46,3 +46,6 @@
     <img src="https://img.shields.io/badge/email-005FF9?logo=mail.ru&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </div>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
