@@ -40,13 +40,16 @@
 
 <div id="badges">
   <a href="https://t.me/golovinaAG">
-    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
+<img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" />
   </a>
   <a href="mailto:alinadd@mail.ru">
     <img src="https://img.shields.io/badge/email-005FF9?logo=mail.ru&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </div>
 
+
+  <a href="https://t.me/golovinaAG"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
+  <a href="mailto:alinadd@mail.ru"><img src="https://img.shields.io/badge/email-005FF9?logo=mail.ru&logoColor=white&style=for-the-badge" alt="Email" /></a>
 
 |🗂 Моя статистика|📟 Мои контакты:| Круто |
 | ------------- |:------------------:| -----:|
@@ -56,7 +59,6 @@
 
 |🗂 Моя статистика:|📟 Мои контакты |
 | ------------- |:------------------:|
-| столбец 3     | выровнен вправо    |
-| столбец 2     | выровнен по центру |
-| зебра-строки  | прикольные         |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Alina&layout=compact&custom_title=Наиболее%20часто%20используемые%20языки&card_width=500&theme=swift)](https://github.com/anuraghazra/github-readme-stats) |<a href="https://t.me/golovinaAG"><img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>|
+| | <a href="mailto:alinadd@mail.ru"><img src="https://img.shields.io/badge/email-005FF9?logo=mail.ru&logoColor=white&style=for-the-badge" alt="Email" /></a>|
 
