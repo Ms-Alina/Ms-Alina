@@ -14,7 +14,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Alina&layout=compact&custom_title=моиязыки)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Alina&layout=compact&custom_title=Наиболее часто)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Hi there 👋
