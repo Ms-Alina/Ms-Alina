@@ -13,14 +13,18 @@
 <div>✏ Хочу создавать качественный продукт</div>
 
 ---
+
+## 🥸 Мой стек:
+
 ## 🗂 Статистика:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Alina&layout=compact&custom_title=Наиболее%20часто%20используемые%20языки&card_width=500&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **Ms-Alina/Ms-Alina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
