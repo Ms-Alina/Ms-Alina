@@ -13,6 +13,7 @@
 <div>✏ Хочу создавать качественный продукт</div>
 
 ---
+## 🗂 Статистика:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ms-Alina&layout=compact&custom_title=Наиболее%20часто%20используемые%20языки&card_width=500&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
